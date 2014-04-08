@@ -1,0 +1,5 @@
+C:\Users\Alumno.CT-Lab04-09\Documents\SharpDevelop Projects\Practica_4_Archivos\Practica_4_Archivos\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Alumno.CT-Lab04-09\Documents\SharpDevelop Projects\Practica_4_Archivos\Practica_4_Archivos\bin\Debug\Practica_4_Archivos.exe
+C:\Users\Alumno.CT-Lab04-09\Documents\SharpDevelop Projects\Practica_4_Archivos\Practica_4_Archivos\bin\Debug\Practica_4_Archivos.pdb
+C:\Users\Alumno.CT-Lab04-09\Documents\SharpDevelop Projects\Practica_4_Archivos\Practica_4_Archivos\obj\Debug\Practica_4_Archivos.exe
+C:\Users\Alumno.CT-Lab04-09\Documents\SharpDevelop Projects\Practica_4_Archivos\Practica_4_Archivos\obj\Debug\Practica_4_Archivos.pdb
